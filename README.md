@@ -8,7 +8,7 @@ https://drive.google.com/file/d/11m_c8F555q3SwIwV1LqQXs1VcgKe6bRa/view?usp=shari
 
 ## Programming Languages 👨‍💻
 
-- Python / Jupter Notebook
+- Python 
 
 ## Process Applied 📜
 
